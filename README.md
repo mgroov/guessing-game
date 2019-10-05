@@ -20,7 +20,7 @@ Guess the number, win prizes!
 1. stage the changes. In a terminal
   - ``` git add .```
 2. Commit the changes
-  - ```git commit -m 'this is a commit message it should describe the changes'
+  - ```git commit -m 'this is a commit message it should describe the changes' ```
 
 ## Push changes to your repo
 1. In a terminal
