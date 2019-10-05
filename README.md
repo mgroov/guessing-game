@@ -5,6 +5,7 @@ Guess the number, win prizes!
 
 ## Fork the repository
 1. Click the fork button on the main page of the repo
+  - but before that click the star button and the watch button ;)
 
 ## Clone your version of it
 1. go to the main page of your forked version
